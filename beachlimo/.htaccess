@@ -4,7 +4,7 @@
   RewriteRule ^index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule . index.html [L]
+  RewriteRule ^(.*)$ /beachlimo/index.html [L]
 </IfModule>
 ErrorDocument 404 index.html
 # php -- BEGIN cPanel-generated handler, do not edit
