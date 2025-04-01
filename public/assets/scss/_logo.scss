@@ -1,0 +1,16 @@
+.app-logo {
+    img {
+        height: calc($header-height - 5px);
+    }
+}
+
+.banner {
+    display: flex;
+    justify-content: center; /* Căn giữa nội dung */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    overflow: hidden; /* Ẩn các phần không nằm trong khung */
+    img {
+        width: 100%; /* Đảm bảo ảnh không vượt quá chiều rộng của banner */
+        height: auto;
+    }
+}

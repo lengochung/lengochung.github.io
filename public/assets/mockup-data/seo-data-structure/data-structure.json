@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Thuê Xe Sân Bay Tân Sơn Nhất Đi Vũng Tàu",
+    "description": "Dịch vụ thuê xe từ sân bay Tân Sơn Nhất đi Vũng Tàu với giá cả hợp lý, chất lượng phục vụ chuyên nghiệp. Đặt xe ngay để trải nghiệm dịch vụ tốt nhất!",
+    "url": "https://beachlimo.info/post/thue-xe-san-bay-tan-son-nhat-di-vung-tau",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://beachlimo.info/uploads/images/thue-xe-san-bay-tan-son-nhat-di-vung-tau.jpg",
+        "width": "1200",
+        "height": "800",
+        "caption": "Thuê xe sân bay Tân Sơn Nhất đi Vũng Tàu"
+    },
+    "datePublished": "2023-10-01T09:00:00+07:00",
+    "dateModified": "2023-10-01T09:00:00+07:00",
+    "author": {
+        "@type": "Person",
+        "name": "Admin",
+        "url": "https://beachlimo.info/author/admin"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Beach Limo",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://beachlimo.info/uploads/logo.png",
+            "width": "200",
+            "height": "50"
+        },
+        "alternateName": [
+            "BEACH LIMO - Taxi Giá Rẻ"
+        ],
+        "url": "https://beachlimo.info/"
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://beachlimo.info/post/thue-xe-san-bay-tan-son-nhat-di-vung-tau"
+    },
+    "keywords": [
+        "thuê xe sân bay Tân Sơn Nhất",
+        "thuê xe đi Vũng Tàu",
+        "dịch vụ xe sân bay",
+        "BeachLimo"
+    ],
+    "articleBody": "Nội dung bài viết chi tiết về dịch vụ thuê xe từ sân bay Tân Sơn Nhất đi Vũng Tàu. Bao gồm thông tin về giá cả, loại xe, và cách đặt xe."
+}
