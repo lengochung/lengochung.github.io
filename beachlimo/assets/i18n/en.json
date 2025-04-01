@@ -285,7 +285,8 @@
             "content": "Content",
             "business": "Business",
             "report": "Report",
-            "file": "File"
+            "file": "File",
+            "terminal": "Terminal"
         },
         "table": {
             "driver_name": "Driver name",

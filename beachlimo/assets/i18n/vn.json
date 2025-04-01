@@ -282,7 +282,8 @@
             "content": "Nội dung",
             "business": "Nghiệp vụ",
             "report": "Thống kê báo cáo",
-            "file": "Tệp - Tài nguyên tĩnh"
+            "file": "Tệp - Tài nguyên tĩnh",
+            "terminal": "Terminal"
         },
         "table": {
             "driver_name": "Tài xế",
