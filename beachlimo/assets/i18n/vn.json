@@ -1,7 +1,7 @@
 {
-	"app_name": "BEACH LIMO",
-	"app_short_name": "BEACH LIMO",
-	"copy_right": "Bản quyền © 2024 Beach Limo. Tất cả các quyền được bảo lưu.",
+	"app_name": "Private Taxi",
+	"app_short_name": "Private Taxi",
+	"copy_right": "Bản quyền © 2024 Private Taxi. Tất cả các quyền được bảo lưu.",
 	"validation": {
 		"choose": "Vui lòng chọn {{field}}.",
 		"required": "Vui lòng nhập {{field}}.",
@@ -264,6 +264,7 @@
             "introduction": "Giới thiệu",
             "contact": "Liên hệ",
             "management": "Quản trị",
+            "view": "Xem trước",
             "post": "Tin tức",
             "service": "Dịch vụ",
             "service_quick": "Danh mục dịch vụ",

@@ -1,6 +1,6 @@
 {
-	"app_name": "BEACH LIMO",
-	"app_short_name": "BEACH LIMO",
+	"app_name": "Private Taxi",
+	"app_short_name": "Private Taxi",
 	"copy_right": "Bản quyền © 2024 Taxi Operation. Tất cả các quyền được bảo lưu.",
 	"validation": {
 		"choose": "Vui lòng chọn {{field}}.",
@@ -267,6 +267,7 @@
             "introduction": "Introduction",
             "contact": "Contact",
             "management": "Managenment",
+            "view": "View",
             "post": "Posts",
             "service": "Service",
             "service_quick": "Management service quick",
