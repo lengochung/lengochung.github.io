@@ -22,6 +22,9 @@ $copyright: 1.5rem;
             align-items: center;
             height: $content-footer-top;
             padding-left: 2rem;
+            .footer-logo {
+                width: 40%;
+            }
         }
     }
     .content-footer {

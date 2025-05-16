@@ -284,7 +284,8 @@
             "business": "Nghiệp vụ",
             "report": "Thống kê báo cáo",
             "file": "Tệp - Tài nguyên tĩnh",
-            "terminal": "Terminal"
+            "terminal": "Terminal",
+            "general_content": "Nội dung chung"
         },
         "table": {
             "driver_name": "Tài xế",

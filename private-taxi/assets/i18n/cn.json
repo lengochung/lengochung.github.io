@@ -278,7 +278,8 @@
             "admin_vehicle": "管理车辆",
             "admin_price": "管理价格",
             "admin_contact": "管理员联系",
-            "terminal": "Terminal"
+            "terminal": "Terminal",
+            "general_content": "General"
         },
         "table": {
             "driver_name": "司机名称",
